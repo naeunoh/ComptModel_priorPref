@@ -1,4 +1,4 @@
-## NOTE : This project is an extension from the research on the effects of prior preferences on social learning by Tor Tarantola.
+## NOTE : This project is a personal extension from the research on the effects of prior preferences on social learning by Tor Tarantola.
 
 ### Prior preferences beneficially influence social and non-social learning
 Data, code, and materials for Tarantola, Kumaran, Dayan, & De Martino. Prior preferences beneficially influence social and non-social learning. <i>Nature Communications</i> (2017).
